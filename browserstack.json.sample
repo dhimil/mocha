@@ -1,0 +1,12 @@
+{
+  "username": "----",
+  "key": "----",
+  "build":"Bad test case",
+  "test_path": "./index.html",
+  "test_framework": "mocha",
+  "debug": true,
+  "browsers": [
+    "firefox_current",
+    "chrome_previous"
+  ]
+}
